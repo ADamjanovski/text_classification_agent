@@ -1,0 +1,6 @@
+{
+  "model_name": "tfidf_model",
+  "accuracy": 0.9182894736842105,
+  "macro_f1": 0.9181140575563427,
+  "fit_time_sec": 34.58786592400065
+}

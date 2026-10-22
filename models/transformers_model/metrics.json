@@ -1,0 +1,6 @@
+{
+  "model_name": "transformers_model",
+  "accuracy": 0.8946052631578948,
+  "macro_f1": 0.8944950206809644,
+  "fit_time_sec": 3591.6544710229973
+}

@@ -1,0 +1,10 @@
+[project]
+name = "frontend"
+version = "0.1.0"
+description = "Frontend for serving our text classification app"
+readme = "README.md"
+requires-python = "==3.12.3"
+dependencies = [
+    "pandas==2.3.0",
+    "streamlit==1.58.0",
+]

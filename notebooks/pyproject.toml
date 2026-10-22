@@ -1,0 +1,14 @@
+[project]
+name = "notebooks"
+version = "0.1.0"
+description = "Notebooks for training and analysing our models."
+readme = "README.md"
+requires-python = "==3.12"
+dependencies = [
+    "ipykernel==7.3.0",
+    "ml_code",
+    "notebook==7.5.7",
+]
+
+[tool.uv.sources]
+ml_code = { path = "../src", editable = true }
